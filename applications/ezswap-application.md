@@ -1,28 +1,14 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
->
-> Please do not remove the bolding of labels (such as **Bold Label:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels.
->
-> Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
->
-> All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
-
 - **Project Name:** EZswap
 - **Team Name:** EZ WORLD HOLDING LIMITED
 - **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 3
 - **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
 - **Project is Open-Source:** Yes
 - **Project was part of Token sale:** Yes
 - **Repository where Project resides:** https://github.com/EZswap-Labs/
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
+
 
 ## Contact
 
@@ -30,11 +16,9 @@
 - **Contact Email:** alexpf@gmail.com
 - **Website:** https://ezswap.io
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
-
 ## Project Overview
-
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+EZswap is the first community-centered NFT Decentralized Exchange (DEX).
+Our goal is to simplify NFT trading by improving liquidity and sharing profits with the community.
 
 ### Overview
 
@@ -148,17 +132,8 @@ Milestone:
 ## Future Plans
 
 > Please include here:
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- onboard 
 
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
