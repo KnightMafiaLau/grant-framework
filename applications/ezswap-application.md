@@ -79,107 +79,70 @@ Currently, there are no similar projects in EOS and related ecosystems. We are t
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+- https://github.com/EZswap-Labs/ezswap1155
+- https://github.com/EZswap-Labs/EzswapMath
+- https://github.com/EZswap-Labs/api-demo
+- https://github.com/EZswap-Labs/launchpadBackend
 
 ### Team Member Repos
 
 -https://github.com/978740431/maxi
-- https://github.com/<team_member_2>
+-https://github.com/KnightMafiaLau/
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/in/<person_1>
-- https://www.linkedin.com/in/<person_2>
+- https://www.linkedin.com/in/knight-liu/
+- https://www.linkedin.com/in/pengfeige/
+- https://www.linkedin.com/in/ariel-x-1b9619215/
+- https://www.linkedin.com/in/jameskwho/
 
 ## Development Status
 
 > If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+- EZswap litepaper:https://ezswap.gitbook.io/ezswap-litepaper/
+- EZswap website: https://ezswap.io/#/index
+- EZswap API document: https://ezswap.readme.io/reference/overview
 
 ## Development Roadmap
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+Q1 2023: 
+API & EVM
+Product 3.0 (Gamefi & Mint Pool)
+Marketing (Focus on Customer side & Gamefi)
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to the EOS ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
+Q2 2023: 
+EVM
+Product 4.0 (Recycle & Ecosystem)
+Listing (Depending on environment) & Marketing
 
-For each milestone,
+Q3 2023: 
+Investment team & Ecosystem
 
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0c are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on someone else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Milestone Summary
 
-> Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
-> You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
-> of all of your Milestones.  Please **DO NOT** remove the three lines below.  If you do, your grant will be rejected or delayed while you fix it.
-- **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
+- **Total Estimated Duration:** 2 months
+- **Full-Time Equivalent (FTE):** 7 FTE
+- **Total Costs:** 70,000 USD
 
-> Please note that this application is automatically parsed.<br/>
-> For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
-> Please remember to delete all lines that start with `>` as they are just instructions and not needed in the application submission.<br/>
-> 
-> Notes on above fields:
-> - Total Estimated Duration: Duration of the whole project (example: 2 months or 7 weeks)
-> - Full-Time Equivalent (FTE): This is the average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), example: 2 FTE or possibly 2.5 FTE as it is an average)
-> - Total Costs: This should be the requested amount in USD for the whole project (example 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#grant-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in EOS, the amount will be calculated according to the exchange rate at the time of payment.
+Milestone:
 
-### Milestone 1 Example — Implement EOS Application
+1 EOS EVM NFT DEX Protocol (4 weeks), 28,000 USD
 
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- EOS EVM Test Protocol
+- EOS EVM Mainnet Protocol
+- EOS EVM Mainnet Protocol demo
 
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to Antelope | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
+2 EOS EVM NFT Launchpad (2 weeks), 14,000 USD
 
+- Test Launchpad
+- Mainnet Launchpad
 
+3 EOS EVM NFT DEX (4 weeks), 28,000 USD
 
-### Milestone 2 Example — Additional features
-
-- **Estimated Duration:** 1 month
-- **FTE:**  2
-- **Costs:** 4,000 USD
-
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOS nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
-
-
-... Add more milestones as above as needed ...
+- EOS EVM Test NFT DEX
+- EOS EVM Mainnet NFT DEX
 
 
 ## Future Plans
