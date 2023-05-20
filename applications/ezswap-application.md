@@ -26,8 +26,8 @@ Our goal is to simplify NFT trading by improving liquidity and sharing profits w
 
 - **Name:** EZswap, a NFT DEX protocol
 - **Brief Description:** EZswap is a NFT DEX protocol using AMM model 
-- **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Relationship to EOS Network / Antelope:** Referred by EOS Team, helping EOS network to build a more sustainable NFT ecosystem
+- **Reason for Interest:** Expanding to more gaming system.
 
 ### Project Details
 
