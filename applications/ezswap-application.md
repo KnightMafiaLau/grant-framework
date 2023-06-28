@@ -22,17 +22,19 @@ Our goal is to simplify NFT trading by improving liquidity and sharing profits w
 
 ### Overview
 
-> Please provide the following:
 
-- **Name:** EZswap, a NFT DEX protocol
+- **Name:** EZswap, an NFT DEX protocol
 - **Brief Description:** EZswap is a NFT DEX protocol using AMM model 
-- **Relationship to EOS Network / Antelope:** Referred by EOS Team, helping EOS network to build a more sustainable NFT ecosystem
+- **Relationship to EOS Network / Antelope:** Referred by EOS Team, expanding our protocol through EOS EVM to help more NFT and Gamefi project build a sustainable ecosystem. 
 - **Reason for Interest:** Expanding to more gaming system.
 
 ### Project Details
 
-EZswap is a platform for users to trade NFT with AMM model, and we also provide custom NFT launchpad, Web2 auth wallet and on-ramp solutions helping projects to gain more users and liquidity. The key formula for our AMM model is x\*y=k. 
-We've already provided swap pool, which allows users to create liquidity pool for ERC-721 and ERC-1155 NFTs, with a factory contract on ETH mainnet and poligon.
+EZswap presents a groundbreaking protocol allowing users to trade NFTs through the Automated Market Maker (AMM) model. We further provide a customizable NFT launchpad, a Web2 auth wallet, and on-ramp solutions designed to bolster project growth by enhancing user engagement and liquidity. GameFi platforms can capitalize on the EZswap protocol to develop an on-chain NFT trading marketplace. This approach not only incentivizes users to supply liquidity for their NFTs, but also offers them the opportunity to partake in protocol fees and in-game tokens, thereby strengthening a more resilient gaming ecosystem.
+
+Presently, the vast majority of GameFi projects rely on the order book model for NFT trading. This model, unfortunately, often falls short in terms of efficiency and fails to enhance the gaming ecosystem holistically. Within the context of the EVM ecosystem, sudoswap has been a pioneer in integrating NFTs with the AMM model. However, sudoswap primarily functions as a third-party marketplace and falls short of offering in-game integration.
+
+EZswap is dedicated to empowering GameFi projects, providing them with extensive optimization including a launchpad, staking features, and token emission based on liquidity. These features aim to assist GameFi projects in harnessing greater value from their player base, onboarding next billions of users to web3.
 
 ### Ecosystem Fit
 
@@ -92,13 +94,13 @@ Currently, there are no similar projects in EOS and related ecosystems. We are t
 
 Q1 2023: 
 API & EVM
-Product 3.0 (Gamefi & Mint Pool)
-Marketing (Focus on Customer side & Gamefi)
+Product 3.0 (Gamefi & Mint Pool): In this stage, GameFi projects will have the ability to utilize the protocol to establish an on-chain NFT marketplace. This will enable users to supply liquidity and generate income from protocol fees associated with the buying or selling of NFTs.
+Marketing (Focus on Customer side & Gamefi): conduct "Ask Me Anything" (AMA) sessions with holders of blue-chip assets and GameFi projects. This effort is intended to broaden our reach within the NFT community. A testament to our expanding influence will be the attainment of 20,000 followers on Twitter and a thriving Discord channel with over 10,000 members.
 
 Q2 2023: 
 EVM
-Product 4.0 (Recycle & Ecosystem)
-Listing (Depending on environment) & Marketing
+Product 4.0：aiming to introduce the integration of a Web2 Auth Wallet and establish on-ramp and off-ramp features. This development will streamline the onboarding process for Web2 users in GameFi projects. Additionally, we plan to enhance our protocol, enabling users to earn token emissions from projects when they provide liquidity on our protocol.
+Listing (Depending on environment) & Marketing: onboarding 2 Gamefi projects as pilot test for our protocol, gaining TVL > 100ETH
 
 Q3 2023: 
 Investment team & Ecosystem
